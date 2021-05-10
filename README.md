@@ -1,7 +1,7 @@
 # OpenCV_Color_Recognition
-Identify RGB colors &amp; color names in an image
+**Project Goal** is to identify RGB colors &amp; color names in an image
 
-How To:
+**How To:**
 1) Download and save attached 3 files to your local desktop
 2) **Input:** 
  Open Cmd Prompt, navigate to the file location and enter 'python color_detection.py -i Flower.jpg'
